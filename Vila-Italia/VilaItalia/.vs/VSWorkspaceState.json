@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VilaItalia",
+    "\\VilaItalia\\Models",
+    "\\VilaItalia\\Views",
+    "\\VilaItalia\\Views\\Clientes",
+    "\\VilaItalia\\Views\\Funcionarios",
+    "\\VilaItalia\\Views\\Motoboys",
+    "\\VilaItalia\\Views\\Shared"
+  ],
+  "SelectedNode": "\\VilaItalia\\Views\\Motoboys\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}
